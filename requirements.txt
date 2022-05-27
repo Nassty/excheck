@@ -1,4 +1,4 @@
-Twisted==19.2.1
+Twisted==22.4.0
 redis==2.4.13
 txredis==2.2
 wokkel==0.7.0
